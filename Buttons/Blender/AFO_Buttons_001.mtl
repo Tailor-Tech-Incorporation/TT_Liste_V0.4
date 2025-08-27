@@ -1,0 +1,12 @@
+# Blender 4.5.1 LTS MTL File: 'AFO_Buttons_001.blend'
+# www.blender.org
+
+newmtl ButtonStyle_Master
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.109091 0.109091 0.109091
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd -o 0 0.5 0 -s 0.25 0.25 0.25 C:/Users/solin/Documents/GitHub/TT_Liste_V0.4/Buttons/Textures/Atlas003/T_JPC_Atlas003_Color.png
