@@ -1,0 +1,38 @@
+{
+ "categoryName": "Alfonso Standard Shirt",
+ "groupName": "Shirt Modular Library",
+ "styles": {
+  "None": [
+   {
+    "blocks": {
+     "Back": [
+      "Standard_Back_Center_Box_Pleat.zmod",
+      "Standard_Back_Plain.zmod",
+      "Standard_Back_Side_Pleats.zmod"
+     ],
+     "Collar": [
+      "Standard_Collar.zmod"
+     ],
+     "Cuff": [
+      "Standard_Cuff_One_Button_Square.zmod",
+      "Standard_Cuff_One_Button_Round.zmod",
+      "Standard_Cuff_One_Button_Mitered.zmod",
+      "Standard_Cuff_Two_Buttons_Adjustable_Mitered.zmod",
+      "Standard_Cuff_Two_Buttons_Adjustable_Square.zmod",
+      "Standard_Cuff_Two_Buttons_Adjustable_Round.zmod",
+      "Standard_Cuff_Two_Buttons_Mitered.zmod"
+     ],
+     "Front": [
+      "Standard_Front_Placket.zmod",
+      "Standard_Front_Plain.zmod"
+     ],
+     "Sleeves": [
+      "Standard_Sleeves.zmod"
+     ]
+    },
+    "lineName": "None",
+    "styleName": "Standard"
+   }
+  ]
+ }
+}
