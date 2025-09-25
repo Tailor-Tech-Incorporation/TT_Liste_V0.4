@@ -1,0 +1,27 @@
+{
+ "categoryName": "AFO_Shirt",
+ "groupName": "Modular Library",
+ "styles": {
+  "None": [
+   {
+    "blocks": {
+     "Back": [
+     ],
+     "Collar": [
+     ],
+     "Cuff": [
+      "Standard_Cuff_4.zmod",
+      "Standard_Cuff_5.zmod",
+      "Standard_Cuff_6.zmod"
+     ],
+     "Front": [
+     ],
+     "Sleeves": [
+     ]
+    },
+    "lineName": "None",
+    "styleName": "Standard"
+   }
+  ]
+ }
+}
