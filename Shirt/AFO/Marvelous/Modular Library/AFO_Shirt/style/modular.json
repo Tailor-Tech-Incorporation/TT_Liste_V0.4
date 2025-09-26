@@ -10,13 +10,14 @@
      "Collar": [
      ],
      "Cuff": [
-      "Standard_Cuff_4.zmod",
-      "Standard_Cuff_5.zmod",
-      "Standard_Cuff_6.zmod"
+      "Standard_French-Cuff_Square_Corner.zmod",
+      "Standard_French-Cuff-Round-Corner.zmod",
+      "Standard_French-Cuff-Mitered-Corner.zmod"
      ],
      "Front": [
      ],
      "Sleeves": [
+      "Standard_Sleeves_French-Cuff.zmod"
      ]
     },
     "lineName": "None",
