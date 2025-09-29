@@ -10,3 +10,13 @@ Ni 1.500000
 d 1.000000
 illum 3
 map_Kd -o 0 0.5 0 -s 0.25 0.25 0.25 C:/Users/solin/Documents/GitHub/TT_Liste_V0.4/Buttons/Textures/Atlas003/T_JPC_Atlas003_Color.png
+
+newmtl Thread_Master
+Ns 328.016510
+Ka 1.000000 1.000000 1.000000
+Kd 0.118915 0.118915 0.118915
+Ks 0.522727 0.522727 0.522727
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
